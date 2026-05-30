@@ -1,8 +1,0 @@
-torch
-torchaudio
-transformers
-sounddevice
-soundfile
-numpy
-scipy
-underthesea
